@@ -1,2 +1,3 @@
 # datasciencecoursera
-Dummy repo for Coursera 'Data Science Toolbox' Course Project
+dummy for MOOC 'The Data Scientist's Toolbox'
+
